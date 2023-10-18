@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.manifest
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.application
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe.manifest
+C:\Users\Admin\Documents\Programming\C# development\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.application
